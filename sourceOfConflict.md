@@ -1,11 +1,11 @@
- ![banner](img/berlin.jpg)
+ ![banner](img/castle.jpg)
 
- # This one change
+ # I am changing the Header
 
 1. List
 2. of
 3. bullet
 4. points
 
-<p> There is a bug in this file</p>
-<p> New paragraph </p>
+<p> There is no bug in this file</p>
+<p> I am adding a para </p>
