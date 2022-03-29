@@ -1,10 +1,11 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/castle.jpg)
 
- # Lorem ipsum sic header
+ # I am changing the Header
 
 * List
 * of
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There is no bug in this file</p>
+<p> I am adding a para </p>
